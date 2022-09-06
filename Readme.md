@@ -1,2 +1,2 @@
 
-Using tabular Q in a cart pole environment.
+Using tabular Q in a cart-pole environment.
